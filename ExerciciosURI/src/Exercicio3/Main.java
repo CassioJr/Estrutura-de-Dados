@@ -17,7 +17,6 @@ public class Main {
         n1 = sc.nextInt();
         n2 = sc.nextInt();
         resultado = (n1/12)*n2;
-
         System.out.printf("%.3f\n", resultado);
 
     }
