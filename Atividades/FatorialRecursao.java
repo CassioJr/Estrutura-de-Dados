@@ -1,5 +1,4 @@
-package atividades;
-
+package teste;
 import java.util.Scanner;
 
 public class FatorialRecursao {

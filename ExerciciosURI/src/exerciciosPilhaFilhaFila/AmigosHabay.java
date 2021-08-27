@@ -53,7 +53,8 @@ public class AmigosHabay {
  
     	for(int x=0;x<vet1.length;x++) {
     		if(vet1[x]!=null) {
-    			tam = vet1[x];   		
+    			tam = vet1[x];  
+    			System.out.println(tam);
     				break;
     		}
     	}
